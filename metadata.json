@@ -1,0 +1,6 @@
+{
+  "name": "ProjectMatch",
+  "description": "AI-powered project and hackathon team matching platform that connects students and professionals based on skills, complementary synergy, availability, and project requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
